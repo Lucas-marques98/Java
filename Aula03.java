@@ -10,7 +10,7 @@ public class Aula03 {
     String res;
     res=(nota >= media ? "Aprovado" : "Reprovado"); //exemplo de operação ternária.
 
-    System.out.printf("Resultado",res);
+    System.out.printf("Resultado ",res);
 
     if ((nota >= media) && (faltas <= maxFaltas)) {
       System.out.println("Aprovado"); // se o Aluno for aprovado.
