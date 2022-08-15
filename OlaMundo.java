@@ -6,7 +6,7 @@ public class OlaMundo {
 
 // metodo Principal, Primeira Class que vai ser executada no Arquivo
 
-// é um metado Público (public)
+// é um metodo Público (public)
 // um método estatico (static) é um metodo que pode ser acessado sem que eu
 // precise instanciar um objeto dessa class
 
@@ -16,3 +16,4 @@ public class OlaMundo {
 
 // main método principal, que tem um parametro de entrada, que é um array de
 // strings chamado "args"
+
